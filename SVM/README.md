@@ -1,12 +1,7 @@
-Homework #6
+
 ===================================
 
 Classify digits with SVM Model
-
-## Group 12 - Team Members
-* Savitha Rachuri - rachuris21@students.ecu.edu
-* Mohammed Azhar Khatri - khatrim21@students.ecu.edu
-* Suhel Siddique - siddiques21@students.ecu.edu
 
 ## Pre-requisite
 * Linux OS
@@ -16,14 +11,14 @@ Classify digits with SVM Model
 
 ## Steps for installation / Setup
 * Open Terminal
-* Run the command - git clone "https://github.com/ml-group-12/assignments.git"
+* Run the command - git clone 
 * Browse into directory (hint: command - cd assignments)
 * Install any dependent libs if needed
 * On successful installations of libs, run "jupyter notebook"
 
 ## Steps to execute program
 * On jupyter notebook, navigate to the directory where assignments git repo was cloned in previous step
-* Navigate to Homework_6/
+* Navigate to SVM/
 * Click on "HW6.ipynb"
 * Click on "Run" icon from the menu
 
