@@ -19,7 +19,7 @@ KNN using KNeighborsClassifier for K=1 to 20
 
 ## Steps to execute program
 * On jupyter notebook, navigate to the directory where assignments git repo was cloned in previous step
-* Navigate to Homework_1/
+* Navigate to KNN/
 * Click on "K-Nearest Neighbors.ipynb"
 * Click on "Run" icon from the menu
 
