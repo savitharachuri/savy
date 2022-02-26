@@ -11,9 +11,9 @@ KNN using KNeighborsClassifier for K=1 to 20
 
 ## Steps for installation / Setup
 * Open Terminal
-* Run the command - git clone "https://github.com/ml-group-12/assignments.git"
+* Run the command - git clone 
 * Browse into directory (hint: command - cd assignments)
-* All dependent libs are listed in "https://github.com/ml-group-12/assignments/blob/main/Homework_1/dependencies.txt". 
+* All dependent libs are listed in dependencies.txt. 
 * Execute this command to install these libs from repo root "pip3 install -r Homework_1/dependencies.txt"
 * On successful installations of libs, run "jupyter notebook"
 
