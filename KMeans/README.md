@@ -19,7 +19,7 @@ KMeans using KElbowVisualizer
 
 ## Steps to execute program
 * On jupyter notebook, navigate to the directory where assignments git repo was cloned in previous step
-* Navigate to Homework_2/
+* Navigate to KMeans/
 * Click on "KMeans.ipynb"
 * Click on "Run" icon from the menu
 
