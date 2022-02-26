@@ -1,12 +1,7 @@
-Homework #3
+
 ===================================
 
 Regression
-
-## Group 12 - Team Members
-* Savitha Rachuri - rachuris21@students.ecu.edu
-* Mohammed Azhar Khatri - khatrim21@students.ecu.edu
-* Suhel Siddique - siddiques21@students.ecu.edu
 
 ## Pre-requisite
 * Linux OS
