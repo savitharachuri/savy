@@ -18,7 +18,7 @@ Regression
 
 ## Steps to execute program
 * On jupyter notebook, navigate to the directory where assignments git repo was cloned in previous step
-* Navigate to Homework_3/
+* Navigate to Regression/
 * Click on "Homework_3.ipynb"
 * Click on "Run" icon from the menu
 
